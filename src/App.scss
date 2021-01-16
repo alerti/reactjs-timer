@@ -1,0 +1,37 @@
+.wedding{
+  border:none;
+  padding:20px;
+  width:fit-content;
+  box-shadow: 0 0 200px 200px lightgray;
+  border-radius: 8px;
+  h1{
+    border:1px solid brown;
+    box-shadow: 0 0 3px 3px lightgray inset;
+    padding:10px;
+
+  }
+
+  a{
+    text-decoration: none;
+    color: green;
+  }
+  
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  flex-flow: row;
+  padding:2%;
+}
+.time{
+  border:2px solid mediumspringgreen;
+  padding:20px;
+  font-size:20px;
+  font-variant: unset;
+  letter-spacing: 0.1rem;
+  font-weight: bolder;
+  color:rgb(0, 0, 0);
+}
